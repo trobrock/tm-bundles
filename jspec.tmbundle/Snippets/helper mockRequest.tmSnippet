@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>mockRequest().and_return('${1:body}', '${2:text/plain}')</string>
+	<key>name</key>
+	<string>helper mockRequest</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>mr</string>
+	<key>uuid</key>
+	<string>3AD40853-FAF2-4EFE-A4AA-2B9DA749F740</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Trae Robrock's Bundle</string>
+	<key>ordering</key>
+	<array>
+		<string>BC9EB13C-EAD1-4596-8B97-EEF4D02A9777</string>
+	</array>
+	<key>uuid</key>
+	<string>4ED78584-5757-45A0-AEA3-DC010AE57B46</string>
+</dict>
+</plist>

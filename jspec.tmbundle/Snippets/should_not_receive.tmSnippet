@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>$1.should.not.receive(${2:method}${3:, 'once'}).with_args(${4:args}).and_return(${5:value})</string>
+	<key>name</key>
+	<string>should_not_receive</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>snr</string>
+	<key>uuid</key>
+	<string>1592F08B-3641-44DC-B479-6BBEB344D977</string>
+</dict>
+</plist>
